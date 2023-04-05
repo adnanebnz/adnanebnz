@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐ About Me:
 🔭 I’m currently working on DZHIKERS platform<br>👯 I’m looking to collaborate on MERN STACK - FLUTTER projects
 
 
