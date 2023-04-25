@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats
 
-<table>
+<table border="0">
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanebnz&theme=tokyonight&hide_border=false"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanebnz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350px"/></td>
